@@ -1,7 +1,7 @@
 {
   "name": "jarvis-base",
-  "version": "1.0.0",
-  "description": "nada aqui",
+  "version": "1.0.000",
+  "description": "Robo desenvolvido em Nodejs para atender a demanda de uma comunidade de Developers. Essa é a versão base, para testes de novas funcionalidades.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "grupo",
+    "devpolice",
+    "2021",
+    "base",
+    "robo",
+    "bot"
+  ],
   "author": "Guiguicdd",
   "license": "ISC",
   "dependencies": {
