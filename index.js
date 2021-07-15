@@ -1,6 +1,6 @@
 const { WAConnection } = require('@adiwajshing/baileys')
-const { corestart } = require('./lib/devpolice_core-core/core')
-const { verifi_block_list, start_onchatupdade } = require('./lib/devpolice_core-core/main')
+const { corestart } = require('./lib/devpolice-core/core')
+const { verifi_block_list, start_onchatupdade } = require('./lib/devpolice-core/main')
 
 const start = () => {
 

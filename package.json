@@ -32,7 +32,7 @@
     "escape-string-regexp": "^4.0.0",
     "fake-useragent": "^1.0.1",
     "got": "^11.8.2",
-    "imgbb-uploader": "^1.3.0",
+    "imgbb-uploader": "^1.3.3",
     "moment-timezone": "^0.5.32",
     "multistream": "^4.0.1",
     "node-fetch": "^2.6.1",
@@ -42,10 +42,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devsofc/devpolice_core-core.git"
+    "url": "git+https://github.com/devsofc/devpolice-core.git"
   },
   "bugs": {
-    "url": "https://github.com/devsofc/devpolice_core-core.git"
+    "url": "https://github.com/devsofc/devpolice-core.git"
   },
-  "homepage": "https://github.com/devsofc/devpolice_core-core#readme"
+  "homepage": "https://github.com/devsofc/devpolice-core#readme"
 }
